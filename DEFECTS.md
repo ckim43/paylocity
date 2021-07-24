@@ -65,12 +65,12 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 ##### Expected Result: The outline of the dashboard should match the size of the dashboard displayed on the screen. 
 
 ##### Screenshots:
-![paylocity3 1](https://user-images.githubusercontent.com/65917569/126879733-c0fcc64a-1162-4ec9-a3fb-ca044825a682.jpg)
-![paylocity3 2](https://user-images.githubusercontent.com/65917569/126879739-b333af88-0093-437b-960a-15a38281f248.jpg)
-![paylocity3 3](https://user-images.githubusercontent.com/65917569/126879744-15ee802e-1697-4348-b2f4-426937f5c89b.jpg)
-![paylocity3 4](https://user-images.githubusercontent.com/65917569/126879749-44a0e4e4-e8c5-44b1-ac55-996b176fab7f.jpg)
-![paylocity3 5](https://user-images.githubusercontent.com/65917569/126879753-262a8c0f-1d44-4d0e-8654-4667ae61aa99.jpg)
-![paylocity3 6](https://user-images.githubusercontent.com/65917569/126879756-18fa5819-b90b-4c60-875a-d4980b36b1b8.jpg)
+![paylocity3 1](https://user-images.githubusercontent.com/65917569/126879824-6aa5a384-c637-4c35-bea8-be3b45c9dbcd.jpg)
+![paylocity3 2](https://user-images.githubusercontent.com/65917569/126879829-a4e70199-8f25-4310-bc25-9c8717d2a6b9.jpg)
+![paylocity3 3](https://user-images.githubusercontent.com/65917569/126879830-bc01dfa8-d86f-4632-872e-84853d34614e.jpg)
+![paylocity3 4](https://user-images.githubusercontent.com/65917569/126879834-188ca062-8287-49cd-9e2e-419131ee7ef3.jpg)
+![paylocity3 5](https://user-images.githubusercontent.com/65917569/126879840-a3a77130-4439-431a-a726-72d3fd78f0f2.jpg)
+![paylocity3 6](https://user-images.githubusercontent.com/65917569/126879844-b5f3c304-1528-4136-ac26-9963d6d05a62.jpg)
 
 
 ##### ID: 004
