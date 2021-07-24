@@ -17,7 +17,7 @@ The following defects/flaws were found while testing the Paylocity Challenge Ben
 4. Enter "Last Name" in the "Last Name" field
 5. Click the "Add" button
 
-##### Actual Results: Last Name and First Name label in the table columnsare misplaced.
+##### Actual Results: Last Name and First Name label in the table columns are misplaced.
 
 ##### Expected Result: First Name label should be switched with the Last Name label.
 
@@ -74,8 +74,8 @@ The following defects/flaws were found while testing the Paylocity Challenge Ben
 
 
 ##### ID: 004
-##### Summary: No error/warning message when the user types in wrong data in the add employee form.
-##### Description: A error/warning message should be displayed when user is adding wrong data. 
+##### Summary: No error/warning message when wrong data is added in the employee form.
+##### Description: A error/warning message should be displayed when adding wrong data in the employee form. 
 ##### Severity: Low
 
 ##### Preconditions: Log-in using valid credentials.
@@ -86,7 +86,7 @@ The following defects/flaws were found while testing the Paylocity Challenge Ben
 2. On the "Paylocity Benefit Dashboard" page, click the "Add Employee" button
 3. Enter long characters in the "First Name" field.
 4. Enter long characters in the "Last Name" field.
-5. Enter characters in the "Dependent" field. 
+5. Enter number in the "Dependent" field. 
 6. Click the "Add" button. 
 
 ##### Actual Results: The data entered does not add. 
