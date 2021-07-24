@@ -74,8 +74,8 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 
 
 ##### ID: 004
-##### Summary: 
-##### Description:
+##### Summary: No error/warning message when the user types in wrong data in the add employee form.
+##### Description: A error/warning message should be displayed when user is adding wrong data. 
 ##### Severity: Low
 
 ##### Preconditions: Log-in using valid credentials.
@@ -84,13 +84,15 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 ##### Steps to reproduce:
 1. Log-in using the test data provided
 2. On the "Paylocity Benefit Dashboard" page, click the "Add Employee" button
-3. Enter 
-4. Enter
-5. Enter 
+3. Enter long characters in the "First Name" field.
+4. Enter long characters in the "Last Name" field.
+5. Enter characters in the "Dependent" field. 
 6. Click the "Add" button. 
 
-##### Actual Results:
+##### Actual Results: The data entered does not add. 
 
-##### Expected Result: 
+##### Expected Result: An error/warning message should be displayed showing what is wrong with the data entered. 
 
 ##### Screenshots:
+![paylocity4](https://user-images.githubusercontent.com/65917569/126880050-4d350811-8635-403b-884d-cf5e1b724a02.jpg)
+
