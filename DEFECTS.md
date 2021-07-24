@@ -12,7 +12,7 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 
 ##### Steps to reproduce:
 1. Log-in using the test data provided
-2. On the "Benefit Dashboard" page, click the "Add Employee" button
+2. On the "Paylocity Benefit Dashboard" page, click the "Add Employee" button
 3. Enter "First Name" in the "First Name" field
 4. Enter "Last Name" in the "Last Name" field
 5. Click the "Add" button
@@ -27,25 +27,27 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 
 
 ##### ID: 002
-##### Summary:
-##### Description:
-##### Severity:
+##### Summary: Special Characters are allowed when adding new employees.
+##### Description: Special Characters are allowed in the "First Name" and "Last Name" when adding new employees.
+##### Severity:High 
 
-##### Preconditions:
-##### Test Data: 
+##### Preconditions: Log-in using valid credentials.
+##### Test Data: Username: TestUser19, Password: RMU!+3D^s74/
 
 ##### Steps to reproduce:
-1.
-2.
-3.
-4.
-5.
+1. Log-in using the test data provided.
+2. On the "Paylocity Benefits Dashboard" page, click the "Add Employee" button.
+3. Enter special characters in the "First Name" field.
+4. Enter special characters in the "Last Name" field.
+5. Click the "Add" button.
 
-##### Actual Results:
+##### Actual Results: Special characters are allowed to be submitted in the add employee form, resulting in invalid data.
 
-##### Expected Result: 
+##### Expected Result: Special characters should not be allowed to be submitted in the add employee form. 
 
 ##### Screenshots:
+![paylocity2](https://user-images.githubusercontent.com/65917569/126861265-bbe6ff2b-461e-43a9-aea7-14ab536d5eb0.jpg)
+
 
 ##### ID: 003
 ##### Summary:
