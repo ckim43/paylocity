@@ -21,7 +21,9 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 
 ##### Expected Result: First Name label should be switched with the Last Name label.
 
-##### Screenshots: ![paylocity1](https://user-images.githubusercontent.com/65917569/126861016-6a4c34a0-fea5-4a58-9f01-e26ed68771b9.jpg)
+##### Screenshots:
+![paylocity1](https://user-images.githubusercontent.com/65917569/126861102-355bbd58-2ea1-44fc-b36a-dbab8b0fd4de.jpg)
+
 
 
 ##### ID: 002
