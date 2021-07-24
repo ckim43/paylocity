@@ -50,15 +50,15 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 
 
 ##### ID: 003
-##### Summary:
+##### Summary: 
 ##### Description:
-##### Severity:
+##### Severity: Low
 
-##### Preconditions:
-##### Test Data: 
+##### Preconditions: Log-in using valid credentials.
+##### Test Data: Username: TestUser19, Password: RMU!+3D^s74/
 
 ##### Steps to reproduce:
-1.
+1. 
 2.
 3.
 4.
@@ -71,19 +71,20 @@ The following defects were found while testing the Paylocity Challenge Benefit D
 ##### Screenshots:
 
 ##### ID: 004
-##### Summary:
+##### Summary: 
 ##### Description:
-##### Severity:
+##### Severity: Low
 
-##### Preconditions:
-##### Test Data: 
+##### Preconditions: Log-in using valid credentials.
+##### Test Data: Username: TestUser19, Password: RMU!+3D^s74/
 
 ##### Steps to reproduce:
-1.
-2.
-3.
-4.
-5.
+1. Log-in using the test data provided
+2. On the "Paylocity Benefit Dashboard" page, click the "Add Employee" button
+3. Enter 
+4. Enter
+5. Enter 
+6. Click the "Add" button. 
 
 ##### Actual Results:
 
