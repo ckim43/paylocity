@@ -1,6 +1,6 @@
 # Defects
 ***
-The following defects were found while testing the Paylocity Challenge Benefit Dashboard
+The following defects/flaws were found while testing the Paylocity Challenge Benefit Dashboard
 ***
 ##### ID: 001
 ##### Summary: Employee First Name and Last Name labels are incorrect
